@@ -36,3 +36,5 @@
      1. First we did EDA and Feature Engineering on train and test data set which is shown in EDA.ipynb and train_test_preparation.ipynb notebook
      2. Modeling shown in modeling.ipynb
      3. Final pipeline shows in Final1.ipynb
+### For Details do check my blog : https://anandahange.medium.com/allstate-claims-severity-86b94c4633f6
+
